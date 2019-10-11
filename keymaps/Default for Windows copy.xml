@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
